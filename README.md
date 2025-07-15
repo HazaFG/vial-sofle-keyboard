@@ -15,7 +15,6 @@ Este repositorio contiene archivos `.vil` diseñados para ser utilizados con **V
 - 🔌 **Microcontrolador:** SparkFun ProMicro RP2040
 - 🧠 **Firmware:** QMK con soporte para Vial
 - 🔁 **Conexión entre mitades:** TRRS
-- 💡 **Soporte RGB:** Compatible con retroiluminación RGB (underglow)
 - 📟 **Pantallas OLED:** Personalizadas y sincronizadas con el firmware
 - 💾 **Formato de firmware:** Solo acepta archivos `.uf2`, no `.hex` o `.bin`
 
