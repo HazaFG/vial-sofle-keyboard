@@ -12,7 +12,7 @@ Este repositorio contiene archivos `.vil` diseñados para ser utilizados con **V
 
 ## ⚙️ Características del hardware
 
-- 🔌 **Microcontrolador:** SparkFun ProMicro RP2040
+- 🔌 **Microcontrolador:** ProMicro RP2040
 - 🧠 **Firmware:** QMK con soporte para Vial
 - 🔁 **Conexión entre mitades:** TRRS
 - 📟 **Pantallas OLED:** Personalizadas y sincronizadas con el firmware
